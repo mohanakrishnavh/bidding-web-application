@@ -1,5 +1,7 @@
 # Bidding Web Application 🛍️
 
+[![CI](https://github.com/mohanakrishnavh/bidding-web-application/actions/workflows/ci.yml/badge.svg)](https://github.com/mohanakrishnavh/bidding-web-application/actions/workflows/ci.yml)
+
 A reverse-marketplace platform where buyers publish what they need and sellers compete by bidding to fulfil those requests. The application delivers a complete Java stack with REST APIs, Hibernate ORM, MySQL persistence, email notifications, and a JSP-based front end.
 
 ---
